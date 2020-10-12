@@ -1,16 +1,17 @@
-### Hi there 👋
+# Wesley Andrade
 
-<!--
-**WesleyReboucas/WesleyReboucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-WesleyAndrade-9400d3?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-andrade/)](https://www.linkedin.com/in/wesley-andrade/)
+[![Gmail Badge](https://img.shields.io/badge/-wesley.reboucas@gmail.com-9400d3?style=flat&logo=Gmail&logoColor=white&link=mailto:wesley.reboucas@gmail.com)](mailto:wesley.reboucas@gmail.com)
 
-Here are some ideas to get you started:
+<br/> I'm a FullStack Developer 💻 ( in beta 🏗️ 😅 )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏽‍💻 &nbsp; I'm working at CREA BA - Regional Council of Engineering and Agronomy at Bahia
+<br/> 🔭 &nbsp; Seeking to collaborate on Front-end projects using React
+<br/> 🎯 &nbsp; Stack: ReactJS & Typescript
+<br/> 🌱 &nbsp; Learning Node.js & React Native
+<br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi
+<br/>
+<br/> 🌎 &nbsp; I appreciate how technologies change the world 
+<br/> 🇧🇷 &nbsp; I love to travel, play the guitar and take several photos of those moments.
+<br/> ⚡ &nbsp; May the force be with you! 
+
