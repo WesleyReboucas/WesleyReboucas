@@ -6,7 +6,7 @@
 <br/> I'm a FullStack Developer 💻 ( in beta 🏗️ 😅 )
 
 👨🏽‍💻 &nbsp; I'm working at CREA BA - Regional Council of Engineering and Agronomy at Bahia
-<br/> 🔭 &nbsp; Seeking to collaborate on Front-end projects using React
+<br/> 🔭 &nbsp; Seeking to collaborate on projects using React
 <br/> 🎯 &nbsp; Stack: ReactJS & Typescript
 <br/> 🌱 &nbsp; Learning Node.js & React Native
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi
