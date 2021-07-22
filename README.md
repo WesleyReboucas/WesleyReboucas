@@ -5,13 +5,11 @@
 
 <br/> I'm a FullStack Developer 💻 ( in beta 🏗️ 😅 )
 
-👨🏽‍💻 &nbsp; I'm working at CREA BA - Regional Council of Engineering and Agronomy at Bahia
-<br/> 🔭 &nbsp; Seeking to collaborate on projects using React
+👨🏽‍💻 &nbsp; I'm working at Ford Motor Company
 <br/> 🎯 &nbsp; Stack: ReactJS, Node.js and Typescript
-<br/> 🌱 &nbsp; Learning React Native
+<br/> 🌱 &nbsp; Learning React Native and Kotlin
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi
 <br/>
 <br/> 🌎 &nbsp; I appreciate how technologies change the world 
 <br/> 🇧🇷 &nbsp; I love to travel, play the guitar and take several photos of those moments.
 <br/> ⚡ &nbsp; May the force be with you! 
-
