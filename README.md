@@ -1,10 +1,8 @@
 # Wesley Rebouças
 
-[![Twitter Badge](https://img.shields.io/badge/-@WesReboucas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/WesReboucas)](https://twitter.com/WesReboucas) 
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Reboucas-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyreboucas/)](https://www.linkedin.com/in/wesleyreboucas/) 
-[![Gmail Badge](https://img.shields.io/badge/-wesley.reboucas@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.reboucas@gmail.com)](mailto:wesley.reboucas@gmail.com)
-
-<br/> I'm a FullStack Developer 💻 ( in beta 🏗️ 😅 )
+[![Twitter Badge](https://img.shields.io/badge/-@WesReboucas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/WesReboucas)](https://twitter.com/WesReboucas) 
+[![Gmail Badge](https://img.shields.io/badge/-wesley_reboucas@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley_reboucas@hotmail.com)](mailto:wesley_reboucas@hotmail.com)
 
 👨🏽‍💻 &nbsp; I'm working at Ford Motor Company
 <br/> 🎯 &nbsp; Stack: ReactJS, Node.js and Typescript
