@@ -6,7 +6,7 @@
 
 👨🏽‍💻 &nbsp; I'm working at Ford Motor Company
 <br/> 🎯 &nbsp; Stack: ReactJS, Node.js and Typescript
-<br/> 🌱 &nbsp; Learning React Native and Kotlin
+<br/> 🌱 &nbsp; Learning React Native
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi
 <br/>
 <br/> 🌎 &nbsp; I appreciate how technologies change the world 
