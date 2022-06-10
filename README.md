@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@WesReboucas-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/WesReboucas)](https://twitter.com/WesReboucas) 
 [![Gmail Badge](https://img.shields.io/badge/-wesley_reboucas@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley_reboucas@hotmail.com)](mailto:wesley_reboucas@hotmail.com)
 
-👨🏽‍💻 &nbsp; I'm working at Ford Motor Company
+👨🏽‍💻 &nbsp; I'm working at Kinvo
 <br/> 🎯 &nbsp; Stack: ReactJS, Node.js and Typescript
 <br/> 🌱 &nbsp; Learning React Native
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi
