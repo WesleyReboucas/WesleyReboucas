@@ -4,10 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Wesley%20Reboucas-ea4335?style=flat-square&logo=Gmail&logoColor=white&style=flat&link=mailto:wesley.reboucas@gmail.com)](mailto:wesley.reboucasgmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@WesReboucas-1da1f2?style=flat-square&logo=twitter&logoColor=white&style=flat&link=https://twitter.com/WesReboucas)](https://twitter.com/WesReboucas) 
 
-👨🏽‍💻 &nbsp; Muito prazer, sou o Wesley Rebouças;
-<br/> 🎓 &nbsp; Formado em Engenharia de Computação; 
-<br/> 🎯 &nbsp; Sou um desenvolvedor mobile frontend especializado em React Native, com 3 anos de experiência entregando soluções para empresas de diferentes setores, desde startups até grandes empresas nacionais e internacionais. Atualmente, busco oportunidades que me permitam desenvolver e promover soluções tecnológicas, com um interesse particular em projetos que envolvam o desenvolvimento mobile usando React Native e Swift;
-<br/> 🌱 &nbsp; Estou expandindo meus conhecimentos em Swift para desenvolvimento nativo iOS;
-<br/> 🌐 &nbsp; Possuo um nível intermediário de inglês;
+<br/> 👨🏽‍💻 &nbsp; I'm glad we met, I'm Wesley Rebouças;
+<br/> 🎓 &nbsp; Graduated in Computer Engineering;
+<br/> 🎯 &nbsp; I'm a mobile frontend developer specialized in React Native, with 3 years of experience delivering solutions for companies from different sectors, from startups to large national and international companies. Currently, I am looking for opportunities that allow me to develop and promote technological solutions, with a particular interest in projects involving mobile development using React Native and Swift;
+<br/> 🌱 &nbsp; I'm expanding my skills in Swift for native iOS development;
+<br/> 🌐 &nbsp; I'm an intermediate level English speaker;
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi;
 <br/> ⚡ &nbsp; May the force be with you! 
