@@ -6,8 +6,8 @@
 
 <br/> 👨🏽‍💻 &nbsp; I'm glad we met, I'm Wesley Rebouças;
 <br/> 🎓 &nbsp; Graduated in Computer Engineering;
-<br/> 🎯 &nbsp; I'm a mobile frontend developer specialized in React Native, with 3 years of experience delivering solutions for companies from different sectors, from startups to large national and international companies. Currently, I am looking for opportunities that allow me to develop and promote technological solutions, with a particular interest in projects involving mobile development using React Native and Swift;
-<br/> 🌱 &nbsp; I'm expanding my skills in Swift for native iOS development;
+<br/> 🎯 &nbsp; I'm a mobile frontend developer specialized in React Native, with 3 years of experience delivering solutions for companies from different sectors, from startups to large national and international companies. Currently, I am looking for opportunities that allow me to develop and promote technological solutions, with a particular interest in projects involving mobile development using React Native, Kotlin or Swift;
+<br/> 🌱 &nbsp; I'm expanding my skills in Swift and Kotlin for native development;
 <br/> 🌐 &nbsp; I'm an intermediate level English speaker;
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi;
 <br/> ⚡ &nbsp; May the force be with you! 
