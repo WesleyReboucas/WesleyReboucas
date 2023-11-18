@@ -13,4 +13,4 @@
 <br/> ⚡ &nbsp; May the force be with you! 
 <br/>
 <br/>
-<br/> [![My Skills](https://skillicons.dev/icons?i=linux,react,swift,ts,js,html,css)](https://skillicons.dev)
+<br/> [![My Skills](https://skillicons.dev/icons?i=linux,swift,react,ts,js,html,css)](https://skillicons.dev)
