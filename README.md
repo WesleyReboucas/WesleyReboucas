@@ -11,3 +11,6 @@
 <br/> 🌐 &nbsp; I'm an intermediate level English speaker;
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi;
 <br/> ⚡ &nbsp; May the force be with you! 
+<br/>
+<br/>
+<br/> [![My Skills](https://skillicons.dev/icons?i=linux,react,swift,ts,js,html,css)](https://skillicons.dev)
