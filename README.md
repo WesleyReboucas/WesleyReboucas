@@ -5,11 +5,12 @@
 
 <br/> 👨🏽‍💻 &nbsp; I'm glad we met, I'm Wesley Rebouças;
 <br/> 🎓 &nbsp; Graduated in Computer Engineering;
-<br/> 🎯 &nbsp; I'm a mobile frontend developer specializing in React Native, with 3 years of experience working with React Native, React Js and Node Js.
+<br/> 🎯 &nbsp; 🎯 I'm a software developer specializing in React Native, with 4 years of experience working with React Native, React Js, and Node Js.
 <br/> 🌱 &nbsp; I'm expanding my knowledge of native mobile languages: Swift;
 <br/> 🌐 &nbsp; I'm an intermediate-level English speaker;
+<br/> 🖥️ &nbsp; My portfolio: WesleyReboucas.com.br
 <br/> 🕹 &nbsp; I like to build projects with Arduino and RaspberryPi;
 <br/> ⚡ &nbsp; May the force be with you and live long and prosper! 
 <br/>
 <br/>
-<br/> [![My Skills](https://skillicons.dev/icons?i=linux,swift,react,ts,js,html,css)](https://skillicons.dev)
+<br/> [![My Skills](https://skillicons.dev/icons?i=linux,apple,swift,react,ts,js,nodejs,html,css)](https://skillicons.dev)
