@@ -5,7 +5,7 @@
 
 <br/> 👨🏽‍💻 &nbsp; I'm glad we met, I'm Wesley Rebouças;
 <br/> 🎓 &nbsp; Graduated in Computer Engineering;
-<br/> 🎯 &nbsp; I'm a software developer specializing in React Native, with 4 years of experience working with React Native, React Js, and Node Js.
+<br/> 🎯 &nbsp; I'm a software developer with 4 years of experience working with React Native, React Js, and Node Js.
 <br/> 🌱 &nbsp; I'm expanding my knowledge of native mobile languages: Swift;
 <br/> 🌐 &nbsp; I'm an intermediate-level English speaker;
 <br/> 🖥️ &nbsp; My portfolio: [Wesley Reboucas](https://www.wesleyreboucas.com.br)
